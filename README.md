@@ -9,4 +9,4 @@ It uses a TimeDistributed CNN + LSTM model with grayscale or RGB frames.
 - LSTM for temporal modeling
 - Training/Validation accuracy and loss plots
 - Confusion matrix and classification report
-- Test predictions aggregated per video
+- Test predictions aggregated per image
