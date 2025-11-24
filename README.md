@@ -1,5 +1,4 @@
 # HAR-Image-Sequence-Classification
-# HAR Image Sequence Classification
 
 This repository implements Human Action Recognition (HAR) using sequences of images.  
 It uses a TimeDistributed CNN + LSTM model with grayscale or RGB frames.
